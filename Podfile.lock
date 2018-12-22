@@ -1,0 +1,25 @@
+PODS:
+  - QYWKUtils (0.0.1):
+    - QYWKUtils/Core (= 0.0.1)
+  - QYWKUtils/Core (0.0.1):
+    - ReactiveObjC
+  - ReactiveObjC (3.1.0)
+
+DEPENDENCIES:
+  - QYWKUtils (from `PodsDevelopment/QYWKUtils`)
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - ReactiveObjC
+
+EXTERNAL SOURCES:
+  QYWKUtils:
+    :path: PodsDevelopment/QYWKUtils
+
+SPEC CHECKSUMS:
+  QYWKUtils: fec986ba7960c0b22189b5b9ed8d131b83e8b724
+  ReactiveObjC: 2a38ea15335de4119d8b17caf1db1484f61db902
+
+PODFILE CHECKSUM: 7865a85e1ef6bc2205a00be8d9cb4cd333f4c662
+
+COCOAPODS: 1.5.3

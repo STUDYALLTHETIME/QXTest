@@ -1,0 +1,38 @@
+{
+  "name": "QYWKUtils",
+  "version": "0.0.1",
+  "summary": "A short description of QYWKUtils.",
+  "description": "千宇微课工具类组件",
+  "homepage": "https://github.com/STUDYALLTHETIME/QYWKUtils",
+  "license": "MIT",
+  "authors": {
+    "free": "851083075@qq.com"
+  },
+  "platforms": {
+    "ios": "9.0"
+  },
+  "requires_arc": true,
+  "source": {
+    "git": "https://github.com/STUDYALLTHETIME/QYWKUtils.git",
+    "tag": "0.0.1"
+  },
+  "subspecs": [
+    {
+      "name": "Core",
+      "source_files": [
+        "Classes",
+        "Classes/**/*.{h,m,c}"
+      ],
+      "resource_bundles": {
+        "QYWKUtils": [
+          "Classes/**/*.{png,jpeg}"
+        ]
+      },
+      "dependencies": {
+        "ReactiveObjC": [
+
+        ]
+      }
+    }
+  ]
+}
