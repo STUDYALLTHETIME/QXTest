@@ -21,6 +21,8 @@
 		817C680021783A24009D5BA4 /* Bitmap@3x.png in Resources */ = {isa = PBXBuildFile; fileRef = 817C67FA21783A24009D5BA4 /* Bitmap@3x.png */; };
 		817C680121783A24009D5BA4 /* Bitmap@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 817C67FB21783A24009D5BA4 /* Bitmap@2x.png */; };
 		817C680221783A24009D5BA4 /* vip@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 817C67FC21783A24009D5BA4 /* vip@2x.png */; };
+		819E174F21CDD4C9005C3222 /* Groupde@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 819E174D21CDD4C8005C3222 /* Groupde@2x.png */; };
+		819E175021CDD4C9005C3222 /* Groupde@3x.png in Resources */ = {isa = PBXBuildFile; fileRef = 819E174E21CDD4C8005C3222 /* Groupde@3x.png */; };
 		ABF652815BB291F6356F0C3E /* libPods-QXText.a in Frameworks */ = {isa = PBXBuildFile; fileRef = A4F0BCE5E3CE158783434772 /* libPods-QXText.a */; };
 /* End PBXBuildFile section */
 
@@ -46,6 +48,8 @@
 		817C67FA21783A24009D5BA4 /* Bitmap@3x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Bitmap@3x.png"; sourceTree = "<group>"; };
 		817C67FB21783A24009D5BA4 /* Bitmap@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Bitmap@2x.png"; sourceTree = "<group>"; };
 		817C67FC21783A24009D5BA4 /* vip@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "vip@2x.png"; sourceTree = "<group>"; };
+		819E174D21CDD4C8005C3222 /* Groupde@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Groupde@2x.png"; sourceTree = "<group>"; };
+		819E174E21CDD4C8005C3222 /* Groupde@3x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Groupde@3x.png"; sourceTree = "<group>"; };
 		A4F0BCE5E3CE158783434772 /* libPods-QXText.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libPods-QXText.a"; sourceTree = BUILT_PRODUCTS_DIR; };
 		B6BF0E42CA1237C323147180 /* Pods-QXText.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-QXText.debug.xcconfig"; path = "Pods/Target Support Files/Pods-QXText/Pods-QXText.debug.xcconfig"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
@@ -100,6 +104,8 @@
 		813AEC42211EE8FE00E455F8 /* QXText */ = {
 			isa = PBXGroup;
 			children = (
+				819E174D21CDD4C8005C3222 /* Groupde@2x.png */,
+				819E174E21CDD4C8005C3222 /* Groupde@3x.png */,
 				817C67F821783A23009D5BA4 /* banner@2x.png */,
 				817C67F921783A23009D5BA4 /* banner@3x.png */,
 				817C67FB21783A24009D5BA4 /* Bitmap@2x.png */,
@@ -186,10 +192,12 @@
 				813AEC50211EE8FE00E455F8 /* LaunchScreen.storyboard in Resources */,
 				813AEC4D211EE8FE00E455F8 /* Assets.xcassets in Resources */,
 				813AEC4B211EE8FE00E455F8 /* Main.storyboard in Resources */,
+				819E174F21CDD4C9005C3222 /* Groupde@2x.png in Resources */,
 				817C680221783A24009D5BA4 /* vip@2x.png in Resources */,
 				817C680021783A24009D5BA4 /* Bitmap@3x.png in Resources */,
 				817C67FD21783A24009D5BA4 /* vip@3x.png in Resources */,
 				817C67FE21783A24009D5BA4 /* banner@2x.png in Resources */,
+				819E175021CDD4C9005C3222 /* Groupde@3x.png in Resources */,
 				817C67FF21783A24009D5BA4 /* banner@3x.png in Resources */,
 				817C680121783A24009D5BA4 /* Bitmap@2x.png in Resources */,
 			);
